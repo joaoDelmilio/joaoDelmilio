@@ -3,7 +3,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 Minhas certificações em destaque são:
 
-Visite meu portfólio para saber mais sobre mim e meus projetos 👉 [joaoDelmilio.github.io](joaoDelmilio.github.io)
+Visite meu portfólio para saber mais sobre mim e meus projetos 👉 [joaoDelmilio.github.io](joaodelmilio.github.io)
 
 ## 💻 Tech Stack:
 
